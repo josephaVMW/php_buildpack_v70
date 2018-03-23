@@ -16,5 +16,6 @@
     "PHP_MODULES_STRIP": true,
     "PHP_MODULES": [],
     "PHP_EXTENSIONS": ["bz2", "zlib", "curl", "mcrypt"],
+	"PHP_VERSION": "{PHP_70_LATEST}"
     "ZEND_EXTENSIONS": []
 }
